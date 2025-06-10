@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ea7ade24afe1cf4889a4a42150c0b4c, type: 3}
+  m_Name: Dialogue1
+  m_EditorClassIdentifier: 
+  npcName: Joy
+  npcPortrait: {fileID: -8425141836431729757, guid: a3cd4e53ae4288c4d8b165d9f2d7b5d0, type: 3}
+  lines:
+  - "AAAAHHHH HELP A MONSTER!!\t"
+  - oh, its just you, i thought you were a monster
+  - i need help defeating them, im overwhelmed
+  - i need you to kill just one monster and go back to me
+  - "i will give you something precious in return\t"
+  - be careful though, theyre tough to deal with
+  - here's a sword, a shield, and a health potion to help them fight

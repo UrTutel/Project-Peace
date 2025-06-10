@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ea7ade24afe1cf4889a4a42150c0b4c, type: 3}
+  m_Name: Dialogue1 1
+  m_EditorClassIdentifier: 
+  npcName: Joy
+  npcPortrait: {fileID: -8425141836431729757, guid: a3cd4e53ae4288c4d8b165d9f2d7b5d0, type: 3}
+  lines:
+  - What are you doing here in the first place, are you  lost?
+  - "Speaking of which, its been ages since I've seen another intelligent soul\t"
+  - But anyways, thank you for defeating that monster
+  - Here, have this. there's a portal near. find it and use this to open that to
+    another place.
+  - Godspeed adventurer
+  hasChoices: 1
